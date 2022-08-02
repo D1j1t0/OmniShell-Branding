@@ -1,0 +1,2 @@
+OmniShell Blue:   #5A88FF
+OmniShell Yellow: #FFD43A
